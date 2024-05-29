@@ -1,4 +1,4 @@
-# Titanic Survival Prediction
+# Titanic Survival Prediction System
 
 [![-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](https://github.com/BaseMax?tab=repositories)
 
